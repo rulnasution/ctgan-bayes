@@ -1,0 +1,66 @@
+### ctgan-bbb folder
+## front folders
+
+ctgan-bbb/codeCanada.csv
+ctgan-bbb/codestudent_file.pkl
+
+ctgan-bbb/code/*-save*
+ctgan-bbb/code/*-more*
+
+ctgan-bbb/code/data_sim*/
+ctgan-bbb/code/model*/
+ctgan-bbb/code/*simulation/
+ctgan-bbb/code/smoe_bctgan/
+ctgan-bbb/code/synth_data*/
+ctgan-bbb/code/old*/
+ctgan-bbb/code/best*/
+ctgan-bbb/code/.ipynb_checkpoints
+ctgan-bbb/code/__pycache__/
+ctgan-bbb/code/results*/
+
+ctgan-bbb/models
+ctgan-bbb/code/ctgan_*
+ctgan-bbb/code/ctgan-bbb-*
+ctgan-bbb/code/ctgan-mcmc-*
+ctgan-bbb/code/CTGAN-pbb.py
+ctgan-bbb/code/ctgan-pretrained.py
+ctgan-bbb/code/data1.py
+ctgan-bbb/code/mcmc-getutil.py
+ctgan-bbb/code/pbb-layer.py
+ctgan-bbb/code/TAAE-pbb.py
+ctgan-bbb/code/TAVB-pbb.py
+ctgan-bbb/code/TVAE-bnn.py
+ctgan-bbb/code/vae_optuna*
+
+### ctgan-swa
+
+ctgan-swa/code/*-save*
+ctgan-swa/code/*-more*
+
+ctgan-swa/code/*epoch*/
+ctgan-swa/code/model*/
+ctgan-swa/code/*simulation/
+ctgan-swa/code/smoe_bctgan/
+ctgan-swa/code/synth_data*/
+ctgan-swa/code/old*/
+ctgan-swa/code/best*/
+ctgan-swa/code/.ipynb_checkpoints
+ctgan-swa/code/__pycache__/
+ctgan-swa/code/results*/
+
+ctgan-swa/code/ctgan_*.py
+ctgan-swa/code/ctgan-swa
+ctgan-swa/code/ctgan-swa*
+ctgan-swa/code/ctgan-swa-*
+
+# all ckpt folders
+**/__pycache__/*
+
+## all files
+*.out
+*.yml
+
+## all data files
+*.npy
+*.csv
+*.slurm
