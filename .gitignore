@@ -18,6 +18,9 @@ ctgan-bbb/code/.ipynb_checkpoints
 ctgan-bbb/code/__pycache__/
 ctgan-bbb/code/results*/
 
+ctgan-bbb/code/CTGAN-pbb-raiseerror.py
+ctgan-bbb/code/pbblayer.py
+
 ctgan-bbb/models
 ctgan-bbb/code/ctgan_*
 ctgan-bbb/code/ctgan-bbb-*
